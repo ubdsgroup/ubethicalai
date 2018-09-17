@@ -21,7 +21,7 @@ permalink: /speakers.html
   <ul style="overflow: hidden">
   <b>Title: </b>{{ speaker.talktitle }}
   <br/>
-  <b>Abstract </b>{{ speaker.talktitle }}
+  <b>Abstract </b>{{ speaker.talkabstract }}
   <br/>
   <b>Time </b>{{ speaker.talktime }}
   <br/>
