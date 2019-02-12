@@ -52,4 +52,14 @@
   education1: MS, Advanced Architectural Design, Columbia University
   education2: MFA, Combined Media from Hunter College, City University of New York
   education3: BArch, Cornell University.
+
+- name: David Doermann 
+  photo: Doermann.jpg 
+  info: Professor, Computer Science and Engineering 
+  email: doermann@buffalo.edu
+  number_educ: 3
+  education1: PhD, University of Maryland, College Park 
+  education2: MS, University of Maryland, College Park 
+  education3: BS, Bloomsburg University of Pennsylvania
+  
   
