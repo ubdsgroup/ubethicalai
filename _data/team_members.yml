@@ -16,6 +16,15 @@
   education2: PhD, Computer Science and Engineering, University of Minnesota
   education3: B.Tech., Computer Science and Engineering, Indian Institute of Technology, Madras 
 
+- name: David Doermann 
+  photo: Doermann.jpg 
+  info: Professor, Computer Science and Engineering 
+  email: doermann@buffalo.edu
+  number_educ: 3
+  education1: PhD, University of Maryland, College Park 
+  education2: MS, University of Maryland, College Park 
+  education3: BS, Bloomsburg University of Pennsylvania
+
 - name: Kenny Joseph 
   photo: Joseph.jpg
   info: Assistant Professor, Computer Science and Engineering
@@ -44,6 +53,16 @@
   education2: MS, Computer Science and Engineering, University of Washington 
   education3: BTech, Computer Science and Engineering, Indian Institute of Technology, Kharagpur 
 
+- name: Melanie Sage 
+  photo: Sage.jpg 
+  info: Assistant Professor, School of Social Work 
+  email: msage@buffalo.edu
+  number_educ: 3
+  education1: PhD, Social Work, Portland State University 
+  education2: MSW, Social Work, East Carolina University 
+  education3: BSW, Social Work, University of North Carolina at Pembroke
+
+  
 - name: Mark Shepard 
   photo: Shepard.jpg 
   info: Associate Professor, Architecture and Media Study 
@@ -52,14 +71,3 @@
   education1: MS, Advanced Architectural Design, Columbia University
   education2: MFA, Combined Media from Hunter College, City University of New York
   education3: BArch, Cornell University.
-
-- name: David Doermann 
-  photo: Doermann.jpg 
-  info: Professor, Computer Science and Engineering 
-  email: doermann@buffalo.edu
-  number_educ: 3
-  education1: PhD, University of Maryland, College Park 
-  education2: MS, University of Maryland, College Park 
-  education3: BS, Bloomsburg University of Pennsylvania
-  
-  
